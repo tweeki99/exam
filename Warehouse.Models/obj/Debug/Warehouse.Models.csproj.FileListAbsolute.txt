@@ -1,0 +1,6 @@
+C:\Users\шипиловд.CORP\source\repos\Warehouse.Console\Warehouse.Models\bin\Debug\Warehouse.Models.dll
+C:\Users\шипиловд.CORP\source\repos\Warehouse.Console\Warehouse.Models\bin\Debug\Warehouse.Models.pdb
+C:\Users\шипиловд.CORP\source\repos\Warehouse.Console\Warehouse.Models\obj\Debug\Warehouse.Models.csprojAssemblyReference.cache
+C:\Users\шипиловд.CORP\source\repos\Warehouse.Console\Warehouse.Models\obj\Debug\Warehouse.Models.csproj.CoreCompileInputs.cache
+C:\Users\шипиловд.CORP\source\repos\Warehouse.Console\Warehouse.Models\obj\Debug\Warehouse.Models.dll
+C:\Users\шипиловд.CORP\source\repos\Warehouse.Console\Warehouse.Models\obj\Debug\Warehouse.Models.pdb
